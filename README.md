@@ -6,3 +6,6 @@ This is a PyTorch implementation of a Transformer-based deep learning model from
 Python 3.8
 Pytorch 2.1.0
 
+## Usage
+$ python initial.py
+
